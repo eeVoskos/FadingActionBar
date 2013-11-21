@@ -1,7 +1,7 @@
+_This is a fork of the [FadingActionBar][12] library that uses [AppCompat][13] instead of [ActionBarSherlock][14]._
+
 FadingActionBar
 ==================
-
-*** This is a fork of the FadingActionBar library that uses [AppCompat][12] instead of [ActionBarSherlock][13]. ***
 
 FadingActionBar is a library which implements the cool fading action bar effect that can be seen in the new Play Music app.
 
@@ -116,7 +116,8 @@ License
  [9]: https://github.com/antoniolg
  [10]: https://play.google.com/store/apps/details?id=com.yavorivanov.android.danswithme 
  [11]: https://play.google.com/store/apps/details?id=com.juannale.pearljamlyricsapp
- [12]: http://developer.android.com/tools/support-library/features.html#v7-appcompat
- [13]: https://github.com/JakeWharton/ActionBarSherlock
+ [12]: https://github.com/ManuelPeinado/FadingActionBar
+ [13]: http://developer.android.com/tools/support-library/features.html#v7-appcompat
+ [14]: https://github.com/JakeWharton/ActionBarSherlock
 
 

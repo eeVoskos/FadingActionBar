@@ -15,13 +15,13 @@
  */
 package com.manuelpeinado.fadingactionbar.demo;
 
-import android.app.Activity;
+import android.support.v7.app.ActionBarActivity;
 
 public class ActivityInfo {
-    public Class<? extends Activity> activityClass;
+    public Class<? extends ActionBarActivity> activityClass;
     public int titleResourceId;
 
-    public ActivityInfo(Class<? extends Activity> activityClass, int titleResourceId) {
+    public ActivityInfo(Class<? extends ActionBarActivity> activityClass, int titleResourceId) {
         this.activityClass = activityClass;
         this.titleResourceId = titleResourceId;
     }

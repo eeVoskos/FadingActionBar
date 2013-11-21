@@ -1,6 +1,8 @@
 FadingActionBar
 ==================
 
+*** This is a fork of the FadingActionBar library that uses AppCompat instead of ActionBarSherlock. ***
+
 FadingActionBar is a library which implements the cool fading action bar effect that can be seen in the new Play Music app.
 
 This library uses the techniques outlined by Cyril Mottier in [a recent blog post][1].
